@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lukas\\source\\repos\\grid game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3BCC1E-61B6-41F9-85A1-98A0C1814A43}|grid game\\grid game.csproj|c:\\users\\lukas\\source\\repos\\grid game\\grid game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3BCC1E-61B6-41F9-85A1-98A0C1814A43}|grid game\\grid game.csproj|solutionrelative:grid game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\source\\repos\\grid game\\grid game\\Program.cs",
+              "RelativeDocumentMoniker": "grid game\\Program.cs",
+              "ToolTip": "C:\\Users\\lukas\\source\\repos\\grid game\\grid game\\Program.cs*",
+              "RelativeToolTip": "grid game\\Program.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADkAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T20:54:20.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
